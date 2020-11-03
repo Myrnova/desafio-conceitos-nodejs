@@ -9,4 +9,4 @@
 
 ## ❔ Sobre
 
-Desafios proposta sobre a aula de conceitos node.js
+Desafios propostos sobre a aula de conceitos NodeJS
